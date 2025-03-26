@@ -86,6 +86,32 @@ section h3 {
   font-size: 14px;
 }
 
+.participant-info {
+  margin-top: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f1f8e9; /* Light green background for participant info */
+  color: #33691e; /* Dark green text for participant info */
+}
+
+.participant-info h4 {
+  margin-bottom: 10px;
+  color: #1b5e20; /* Darker green for headings */
+}
+
+.participant-info ul {
+  margin-top: 10px;
+  padding-left: 20px;
+  list-style-type: disc;
+  color: #4caf50; /* Green for list items */
+}
+
+.participant-info ul li {
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
